@@ -1,0 +1,30 @@
+
+
+body {
+    font-family: "Verdana", "Arial", sans-serif;
+}
+
+.recipe {
+    background-color: lightgreen;
+}
+
+.page-heading {
+    font-family: "Garamond", "Georgia", "Times New Roman", serif;
+    color: green;
+}
+
+.heading {
+    font-family: "Garamond", "Georgia", "Times New Roman", serif;
+}
+
+.link-home {
+    font-family: "Verdana", "Arial", sans-serif;
+    font-weight: bold;
+    background-color: lightgreen;
+
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
